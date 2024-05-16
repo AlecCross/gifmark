@@ -1,5 +1,6 @@
 {
   "name": "gifmark",
+  "homepage": "https://aleccross.github.io/gifmark/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
